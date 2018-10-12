@@ -1,4 +1,5 @@
 # Orchard Core 
+[![Build Status](https://dev.azure.com/cathearders/OrchardCore/_apis/build/status/leversofpower.OrchardCore)](https://dev.azure.com/cathearders/OrchardCore/_build/latest?definitionId=3)
 
 Orchard Core is a re-implementation of [Orchard CMS](https://github.com/OrchardCMS/Orchard) in [ASP.NET Core](http://www.asp.net/vnext). You can check out the [Orchard Core presentation from the last Orchard Harvest](https://www.youtube.com/watch?v=TK6a_HfD0O8) to get an introductory overview of its features and goals.
 
