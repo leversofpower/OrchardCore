@@ -13,3 +13,4 @@ steps:
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
 - script: dotnet publish --output $(Build.ArtifactStagingDirectory)
+- task: PublishBuildArtifacts@1
